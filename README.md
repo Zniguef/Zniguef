@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Restaurant Website]**
-
-- 🌱 I’m currently learning **TypeScript and Python.**
+- 🌱 I’m currently learning **TypeScript, React and Python.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://zniguef.github.io/my-portfolio)**
 
 - 📫 How to reach me **mohamedzniguef@gmail.com**
 
